@@ -43,3 +43,23 @@
 # getFile(Url)
 
 
+#通过点击 抓取小说《朝闻道》
+# from selenium import webdriver
+# import time
+# #实例化一个浏览器驱动
+# def getFile():
+#     chrome = webdriver.Chrome()
+#     #访问页面
+#     chrome.get("https://www.qzread.com/booklist/2/2971/1331439.html")
+#     i = 0
+#     #捕获元素
+#     for i in range(5):
+#         texts = chrome.find_elements_by_xpath("//div[@class='yd_text2']")
+#         for t in texts:
+#             with open("xiaoshuo.txt","a") as f:
+#                 f.write(t.text)
+#         time.sleep(2)
+#         url = chrome.find_element_by_class_name('next')
+#         url.click()
+#     chrome.close()
+# getFile()
