@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67252f33-5c5a-4576-bc82-4ed8300d959d" name="默认的" comment="Fox Face">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Using.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unittest_Using.py" />
+    <list default="true" id="67252f33-5c5a-4576-bc82-4ed8300d959d" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Unittest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Xpath_Using.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoshuo.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,9 +18,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1562071887190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Daily_Exercise$Nosetests_for_Selenium_Unittest_YoujiuyeTest_test_login_usrname.coverage" NAME="Nosetests for Selenium_Unittest.YoujiuyeTest.test_login_usrname Coverage Results" MODIFIED="1562136846157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Daily_Exercise$Nosetests_in_Selenium_Unittest_py.coverage" NAME="Nosetests in Selenium_Unittest.py Coverage Results" MODIFIED="1562140528381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Daily_Exercise$Unittest_Using.coverage" NAME="Unittest_Using Coverage Results" MODIFIED="1562132716269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Daily_Exercise$demo.coverage" NAME="demo Coverage Results" MODIFIED="1562072851806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Daily_Exercise$Selenium_Using.coverage" NAME="Selenium_Using Coverage Results" MODIFIED="1562132727662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Daily_Exercise$Xpath_Using.coverage" NAME="Xpath_Using Coverage Results" MODIFIED="1562160099309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -46,8 +51,52 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Selenium_Unittest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Selenium_Unittest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="73" column="46" lean-forward="true" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+              <folding>
+                <element signature="e#1673#1688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Xpath_Using.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Xpath_Using.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <folding>
+                <element signature="e#691#721#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiaoshuo.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoshuo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="1161" column="0" lean-forward="true" selection-start-line="1161" selection-start-column="0" selection-end-line="1161" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLTestRunner.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="769" column="18" lean-forward="false" selection-start-line="769" selection-start-column="18" selection-end-line="769" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -63,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Selenium_Using.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Selenium_Using.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium_Using.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="133">
+              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -92,6 +141,11 @@
         <option value="$PROJECT_DIR$/Unittest_Using.py" />
         <option value="$PROJECT_DIR$/Selenium_Using.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Selenium_Unittest.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/xiaoshuo" />
+        <option value="$PROJECT_DIR$/Xpath_Using.py" />
+        <option value="$PROJECT_DIR$/xiaoshuo.txt" />
       </list>
     </option>
   </component>
@@ -154,7 +208,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Selenium_Using">
+  <component name="RunManager" selected="Python.Xpath_Using">
+    <configuration name="Nosetests for Selenium_Unittest.YoujiuyeTest.test_login_usrname" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Unittest.YoujiuyeTest.test_login_usrname&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Nosetests in Selenium_Unittest.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Selenium_Unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration name="Selenium_Using" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +277,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Xpath_Using" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -204,21 +290,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\软件学习\Daily_Exercise\Python_Daily_Exercise\FoxFace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xpath_Using.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.demo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Unittest_Using" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Selenium_Using" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unittest_Using" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Selenium_Using" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for Selenium_Unittest.YoujiuyeTest.test_login_usrname" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Selenium_Unittest.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Xpath_Using" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.Selenium_Using" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Unittest_Using" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Xpath_Using" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Selenium_Unittest.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for Selenium_Unittest.YoujiuyeTest.test_login_usrname" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Selenium_Using" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Unittest_Using" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +330,60 @@
       <option name="project" value="LOCAL" />
       <updated>1562073102789</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercises">
+      <created>1562135245406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562135245406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercises">
+      <created>1562135388581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562135388581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 05m 06s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 08m 20s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 21m 40s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 23m 03s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 24m 38s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 32m 38s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 34m 13s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 35m 23s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 55m 16s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Selenium_Unittest_py - 2019.07.03 at 15h 56m 18s.xml">
+      <configuration name="Nosetests in Selenium_Unittest.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1482602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2753404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -255,8 +391,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35584843" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33444816" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34596375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -281,10 +417,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fox Face" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fox Face" />
+    <MESSAGE value="Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -314,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -330,9 +469,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium_Using.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="133">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="769" column="18" lean-forward="false" selection-start-line="769" selection-start-column="18" selection-end-line="769" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoshuo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="73" column="46" lean-forward="true" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+          <folding>
+            <element signature="e#1673#1688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoshuo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1161" column="0" lean-forward="true" selection-start-line="1161" selection-start-column="0" selection-end-line="1161" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath_Using.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <element signature="e#691#721#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
