@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>
+            Real-time box office
+        </title>
+        <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/Chart.min.js"></script>
+    </head>
+    <body>
+        <canvas id="panel" height="330px" width=" 500px">
+
+        </canvas>
+        <script>
+            $(
+                function () {
+                    var can = $('#panel').get(0).getContext("2d")//设置为2d画布
+                    var canData = {
+                        labels:["1","2","c","d","e","f"],
+                        datasets:[
+                            {
+                                fillColor:"rgba(255,255,0,0.2)",
+                                strokeColor:"rgba(0,255,0,1)",
+                                data:[1,2,3,2,1,5]
+                            }
+                        ]
+                    };
+                    var line = new Chart(can).Line(canData);
+                    setInterval(
+                        function () {
+                            $.ajax(
+                                {
+                                    type:'get',
+                                    url:'/cgi-bin/jsonData.py',
+                                    data:'',
+                                    success:function (data) {
+                                        line.addData(
+                                            [data["num"]],
+                                            data['now']
+                                        );
+                                        var len = line.datasets[0].points.length;
+                                        if(len>8){
+                                            line.removeData()
+                                        }
+                                    },
+                                    error:function (error) {
+                                        console.log(error)
+                                    }
+                                }
+                            )
+
+                        },1000
+                    )
+                }
+            )
+        </script>
+    </body>
+</html>
